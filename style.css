@@ -6,6 +6,19 @@
     border-spacing: 0;
 }
 
+.contact{
+    grid-column: 1 / span 2;
+    text-align: center;
+    background-color: #0c2438;
+    color: #F5F5Fa;
+    justify-content: center;
+    padding: 5%;
+    border-left: 2px solid lightblue;
+    border-right: 2px solid lightblue;
+    border-top: transparent;
+    border-bottom: transparent;
+}
+
 table {
     width: 100%;
     letter-spacing: 3px;
